@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarRentalAgencyTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2018-05-13T08:53:49" hostname="Anjas-MacBook-Air-2.local" time="0.023">
+  <properties/>
+  <testcase name="addPersonTwoPersons" classname="CarRentalAgencyTest" time="0.004"/>
+  <testcase name="addCarTwice" classname="CarRentalAgencyTest" time="0.001"/>
+  <testcase name="nextDay5AndReturn" classname="CarRentalAgencyTest" time="0.002"/>
+  <testcase name="rentDrivingLicenceProblem" classname="CarRentalAgencyTest" time="0.0"/>
+  <testcase name="rentCarAlreadyCommissioned" classname="CarRentalAgencyTest" time="0.0"/>
+  <testcase name="rentPersonNotFound" classname="CarRentalAgencyTest" time="0.0"/>
+  <testcase name="rentCarNotFound" classname="CarRentalAgencyTest" time="0.0"/>
+  <testcase name="addCarTwoCars" classname="CarRentalAgencyTest" time="0.0"/>
+  <testcase name="rent13Days" classname="CarRentalAgencyTest" time="0.001"/>
+  <testcase name="addCarSamePlate" classname="CarRentalAgencyTest" time="0.0"/>
+  <testcase name="nextDay1" classname="CarRentalAgencyTest" time="0.001"/>
+  <testcase name="nextDay2" classname="CarRentalAgencyTest" time="0.001"/>
+  <testcase name="nextDay3" classname="CarRentalAgencyTest" time="0.0"/>
+  <testcase name="nextDay4" classname="CarRentalAgencyTest" time="0.001"/>
+  <testcase name="addPersonTwice1" classname="CarRentalAgencyTest" time="0.0"/>
+  <testcase name="addPersonTwice2" classname="CarRentalAgencyTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

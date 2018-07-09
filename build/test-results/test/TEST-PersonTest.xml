@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-05-13T08:53:49" hostname="Anjas-MacBook-Air-2.local" time="0.004">
+  <properties/>
+  <testcase name="removeDrivingLicence1" classname="PersonTest" time="0.0"/>
+  <testcase name="removeDrivingLicence2" classname="PersonTest" time="0.0"/>
+  <testcase name="addAndRemoveActiceRentals1" classname="PersonTest" time="0.0"/>
+  <testcase name="addAndRemoveActiceRentals2" classname="PersonTest" time="0.001"/>
+  <testcase name="addDrivingLicence" classname="PersonTest" time="0.0"/>
+  <testcase name="personConstrAndGetter1" classname="PersonTest" time="0.001"/>
+  <testcase name="personConstrAndGetter2" classname="PersonTest" time="0.0"/>
+  <testcase name="addActiceRentals" classname="PersonTest" time="0.001"/>
+  <testcase name="removeActiceRentalsNotNegative" classname="PersonTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

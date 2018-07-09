@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RentalAgreementTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-05-13T08:53:49" hostname="Anjas-MacBook-Air-2.local" time="0.005">
+  <properties/>
+  <testcase name="rentalAgreementConstrNotCorrectLicenceSetCar" classname="RentalAgreementTest" time="0.001"/>
+  <testcase name="finish1" classname="RentalAgreementTest" time="0.001"/>
+  <testcase name="finish2" classname="RentalAgreementTest" time="0.0"/>
+  <testcase name="cancel1" classname="RentalAgreementTest" time="0.0"/>
+  <testcase name="cancel2" classname="RentalAgreementTest" time="0.0"/>
+  <testcase name="nextDay13" classname="RentalAgreementTest" time="0.0"/>
+  <testcase name="nextDay1" classname="RentalAgreementTest" time="0.0"/>
+  <testcase name="rentalAgreementConstrAndGetter13" classname="RentalAgreementTest" time="0.0"/>
+  <testcase name="rentalAgreementConstrAndGetter1" classname="RentalAgreementTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
